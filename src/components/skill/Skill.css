@@ -1,0 +1,21 @@
+.skills {
+  color: white;
+  background-image: url("./11.jpg");
+  background-size: cover;
+  /* opacity: 0.5; */
+  font-size: 60px;
+  padding: 20px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-attachment: fixed;
+}
+.html,
+.css,
+.js,
+.react,
+.node,
+.ps {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

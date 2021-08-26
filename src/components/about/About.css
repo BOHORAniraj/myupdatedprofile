@@ -1,0 +1,35 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+.info {
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.img4 {
+  background-image: url("./11.jpg");
+  background-size: cover;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  color: white;
+  background-attachment: fixed;
+}
+.pro-task-list {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+.pro-img {
+  width: 50%;
+}
+.pro-img img {
+  width: 50%;
+}
